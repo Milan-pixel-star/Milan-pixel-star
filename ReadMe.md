@@ -1,5 +1,5 @@
 # 💫 About Me :
-🔭 I’m currently working on Machine Learning Projects <br>👯 I’m looking to collaborate on Data Engineering Projects <br>🌱 I’m currently learning New technologies<br>💬 Ask me about my carrer goals.<br>⚡ Fun fact I want to be an intern.
+🔭 I’m currently working on Machine Learning Projects <br>👯 I’m looking to collaborate on Data Engineering Projects <br>🌱 I’m currently learning New technologies and prepearing for placements<br>💬 Ask me about my carrer goals.<br>⚡ Fun fact I want to be an intern.
 
 
 ## 🌐 Socials:
